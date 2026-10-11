@@ -1,0 +1,18 @@
+[
+  {
+    "id": "101",
+    "category": "History of Prophets",
+    "question": "To which Prophet did Allah grant the ability to understand and communicate in the language of animals and birds?",
+    "options": ["Prophet Isa (A.S)", "Prophet Sulaiman (A.S)", "Prophet Yusuf (A.S)", "Prophet Musa (A.S)"],
+    "correctIndex": 1,
+    "explanation": "Prophet Sulaiman (A.S) was granted immense authority by Allah, including the unique ability to understand the speech of birds, ants, and other creatures."
+  },
+  {
+    "id": "102",
+    "category": "Holy Quran",
+    "question": "Which Surah is known as the 'Heart of the Quran'?",
+    "options": ["Surah Al-Fatiha", "Surah Yasin", "Surah Al-Baqarah", "Surah Al-Ikhlas"],
+    "correctIndex": 1,
+    "explanation": "Surah Yasin is commonly referred to as the Heart of the Quran due to its profound emphasis on tawhid, prophethood, and the afterlife."
+  }
+]
